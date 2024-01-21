@@ -22,6 +22,8 @@
 
 #Weird
 
+
+
 #!/bin/python3
 
 import math
@@ -38,9 +40,7 @@ if _name_ == '_main_':
 
     n = int(input().strip())
 
-    
-
-    if n%2 != 0:
+    if n%2 != 0:
 
         print("Weird")
 
